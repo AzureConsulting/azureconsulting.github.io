@@ -1,3 +1,3 @@
 ## Welcome to AzureConsulting
 
-Under Construction...
+Please visit AzureConsulting.com
